@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo":"https://images8.kabum.com.br/produtos/fotos/94078/94078_1513692847_index_gg.jpg",
+            "name": "Mouse Gamer Warrior",
+            "description": "Descrição do Produto",
+            "price": 69.99
+        },
+        {
+            "id": 2,
+            "photo":"https://images4.kabum.com.br/produtos/fotos/100724/100724_1552314842_index_gg.jpg",
+            "name": "Mouse Gamer Havit",
+            "description": "Descrição do Produto",
+            "price": 94.90
+        },
+        {
+            "id": 3,
+            "photo":"https://lojamultilaser.vteximg.com.br/arquivos/ids/175614-1000-1000/mo250_01.jpg?v=636616644759800000",
+            "name": "Mouse Gamer Multilaser",
+            "description": "Descrição do Produto",
+            "price": 61.90
+        },
+        {
+            "id": 4,
+            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
+            "name": "Mouse Gamer Fortrek",
+            "description": "Descrição do Produto",
+            "price": 64.90
+        },
+        {
+            "id": 5,
+            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
+            "name": "Mouse Gamer Fortrek",
+            "description": "Descrição do Produto",
+            "price": 64.90
+        },
+        {
+            "id": 6,
+            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
+            "name": "Mouse Gamer Fortrek",
+            "description": "Descrição do Produto",
+            "price": 64.90
+        },
+        {
+            "id": 7,
+            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
+            "name": "Mouse Gamer Fortrek",
+            "description": "Descrição do Produto",
+            "price": 64.90
+        },
+        {
+            "id": 8,
+            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
+            "name": "Mouse Gamer Fortrek",
+            "description": "Descrição do Produto",
+            "price": 64.90
+        }
+    ]
+}
