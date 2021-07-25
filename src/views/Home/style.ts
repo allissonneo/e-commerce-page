@@ -16,9 +16,9 @@ margin: auto;
     .InicioCompra{
         display: flex;
         align-content: space-around;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-end;
         .cartItens{   
             display: flex;
             color: #78d1e1;
@@ -67,4 +67,14 @@ section {
 
     }
 }
+footer{
+    width:100%;
+    height: max-content;
+    display: flex;
+    justify-content: space-between;
+    background-color: #483c67;
+    padding: 2px;
+    align-content: center;
+    align-items: center;
+  }
 `;

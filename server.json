@@ -12,49 +12,49 @@
             "photo":"https://images4.kabum.com.br/produtos/fotos/100724/100724_1552314842_index_gg.jpg",
             "name": "Mouse Gamer Havit",
             "description": "Descrição do Produto",
-            "price": 94.90
+            "price": 94.99
         },
         {
             "id": 3,
             "photo":"https://lojamultilaser.vteximg.com.br/arquivos/ids/175614-1000-1000/mo250_01.jpg?v=636616644759800000",
             "name": "Mouse Gamer Multilaser",
             "description": "Descrição do Produto",
-            "price": 61.90
+            "price": 61.99
         },
         {
             "id": 4,
             "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
             "name": "Mouse Gamer Fortrek",
             "description": "Descrição do Produto",
-            "price": 64.90
+            "price": 64.99
         },
         {
             "id": 5,
-            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
-            "name": "Mouse Gamer Fortrek",
+            "photo":"https://images9.kabum.com.br/produtos/fotos/97199/97199_1529939904_gg.jpg",
+            "name": "Mouse Gamer Red Dragron",
             "description": "Descrição do Produto",
-            "price": 64.90
+            "price": 104.99
         },
         {
             "id": 6,
-            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
-            "name": "Mouse Gamer Fortrek",
+            "photo":"https://images0.kabum.com.br/produtos/fotos/97700/97700_3_1533215372_gg.jpg",
+            "name": "Mouse Gamer HyperX",
             "description": "Descrição do Produto",
-            "price": 64.90
+            "price": 394.99
         },
         {
             "id": 7,
-            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
-            "name": "Mouse Gamer Fortrek",
+            "photo":"https://images6.kabum.com.br/produtos/fotos/152126/mouse-gamer-patriot-viper-v570-laser-mouse-blackout-edition-rgb-12000dpi-13-botoes-para-mmo-e-fps-preto-pv570luxwak_1623253109_gg.jpg",
+            "name": "Mouse Gamer Patriot",
             "description": "Descrição do Produto",
-            "price": 64.90
+            "price": 214.99
         },
         {
             "id": 8,
-            "photo":"https://img.kalunga.com.br/fotosdeprodutos/442656d.jpg",
-            "name": "Mouse Gamer Fortrek",
+            "photo":"https://images4.kabum.com.br/produtos/fotos/101484/mouse-gamer-oex-titan-rgb-7-botoes-14400dpi-ms318_mouse-gamer-oex-titan-rgb-7-botoes-14400dpi-ms318_1556571411_gg.jpg",
+            "name": "Mouse Gamer Oex Game",
             "description": "Descrição do Produto",
-            "price": 64.90
+            "price": 99.99
         }
     ]
 }
