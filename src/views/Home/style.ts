@@ -40,7 +40,8 @@ margin: auto;
     }
 }
 section {
-        
+    
+    
     height: 100%;
     width: 100%;
     background-color: #201b2d;
@@ -77,4 +78,35 @@ footer{
     align-content: center;
     align-items: center;
   }
+`;
+
+
+
+
+export const ProdsContainer = styled.main`
+        
+    height: max-content;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+      
+        .botao{
+            background-color: #626483;
+            color: #eb9e64;
+         
+        }
+    
+        .product-content {
+            display: grid;
+            text-align: center;
+            height: 300px;
+            background: #e1e1e6;
+            border-radius: 12px;
+            padding: 12px;
+            margin: 4px;
+    
+        }
+
 `;

@@ -99,11 +99,11 @@ const Register: React.FC = () => {
                 <div>
 
                 <a href= "https://github.com/allissonneo">
-                <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="25px" height="auto" />
+                <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="25px" height="auto" alt='git' />
                 </a>
                 <a  href="https://www.linkedin.com/in/allisson-neo/" >
 
-                <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px" height="auto"/>
+                <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px" height="auto" alt='linkedin' />
                 </a>
                 </div>
 

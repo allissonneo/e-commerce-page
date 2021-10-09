@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {useHistory} from 'react-router-dom';
-import { Container } from './style';
+import { Container, ProdsContainer } from './style';
 import api from '../../services/api';
 import logo from './../../assets/logo.png';
 import Cart from './../../assets/cart.png';
@@ -64,6 +64,8 @@ const Home: React.FC = () => {
         </div>
       </div>
       <section>
+
+        <ProdsContainer>
         {data.map((prod, index) => (
           <div className="product-content" key={prod.id}>
             <img src={prod.photo} alt="mouse" width="200" height="auto" />
@@ -73,17 +75,18 @@ const Home: React.FC = () => {
             <button className="botao" onClick={() => handleCart(index)}>Adicionar ao Carrinho</button>
           </div>
         ))}
+        </ProdsContainer>
       </section>
       <footer>
                 &copy;  Allisson Néo
                 <div>
 
                 <a href= "https://github.com/allissonneo">
-                <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="25px" height="auto" />
+                <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="25px" height="auto" alt='git'/>
                 </a>
                 <a  href="https://www.linkedin.com/in/allisson-neo/" >
 
-                <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px" height="auto"/>
+                <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px" height="auto" alt='linkedin'/>
                 </a>
                 </div>
 
